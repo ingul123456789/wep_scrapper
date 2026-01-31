@@ -1,4 +1,4 @@
-def say_hello(user_name="anonymous"):    #user_name에 기본값을 설정해줌
+def say_hello(user_name="anonymous"):    #user_name에 기본값을 설정해줌 jum
     print("hello",user_name)
 
 say_hello("seoungmin") #원래는 1개의 argument를 받아야 함
